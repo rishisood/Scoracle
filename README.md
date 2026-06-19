@@ -1,0 +1,2 @@
+# Scoracle
+Pl prediction app 
